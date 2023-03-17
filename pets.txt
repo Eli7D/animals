@@ -5,3 +5,5 @@ frockit
 chick
 bandit
 gremlin
+frog
+turtle
