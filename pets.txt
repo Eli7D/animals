@@ -3,3 +3,5 @@ blue
 scout
 frockit
 chick
+bandit
+gremlin
